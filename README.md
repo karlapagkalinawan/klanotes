@@ -27,7 +27,7 @@ Clone the project repo to your local machine using:
 cmd mo to ilagay C:
 git clone https://github.com/ryangalang/klanotes.git
 
-cd klaontes
+cd klanotes
 
 cd backend
 npm install
@@ -37,7 +37,7 @@ yung database knotes_db
 start  backend server
 node server.js
 
-balik ka sa frontend cd..
+balik ka sa frontend using cd..
 npm install
 
 tas istart mo na app mo
